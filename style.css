@@ -1,0 +1,28 @@
+body{background-color: #808080;}
+
+h1{color: ghostwhite;
+	text-shadow: 5px 5px 5px #000000;
+	font-family: Futura;
+	font-size: 45px;
+	background-color: #009900;
+	text-align: center;
+	padding: 15px;
+	margin-left: 200px;
+	margin-right: 200px;}
+
+p{color:ghostwhite;
+	font-family: Futura;
+	font-size: 20px;
+	text-align: center;}
+
+img{border-style: double;
+	border-width: 10px;
+	border-color: ghostwhite;
+	display: block;
+	margin: auto;
+	border-style:double;}
+
+a{text-decoration: none;
+  font-family: Helvetica;
+  font-size: 24px;
+  color: #85143E;}
